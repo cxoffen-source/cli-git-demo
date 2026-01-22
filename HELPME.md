@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-ALSO HELP
-=======
-ALSO HELP
->>>>>>> title
+this is a cry for help
